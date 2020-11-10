@@ -15,6 +15,11 @@
     <img src="https://badgen.net/badge/Gatsby/2.23.12/purple" alt="Gatsby version" />
   </a>
   
+   <a href="https://github.com/urmat996/granpri/pulls">
+     <img src="https://badgen.net/github/prs/urmat996/granpri" alt="Pull Request Amount">
+   </a>
+   <img src="https://badgen.net/github/last-commit/urmat996/granpri" alt="Last commit date" />
+    
   <a href="./LICENSE">
     <img src="https://badgen.net/badge/license/MIT/blue" alt="License">
   </a>
